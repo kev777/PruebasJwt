@@ -3,3 +3,11 @@
 ################################################################################
 
 /JWT/publicKeySubLi.pem
+/JWT/publicKeyOfSub.pem
+/JWT/publicKeyInv.pem
+/JWT/publicKey.pem
+/JWT/privateKeySubLi.pem
+/JWT/privateKeyOfSub.pem
+/JWT/privateKeyInv.pem
+/JWT/privateKey.pem
+/.vs
